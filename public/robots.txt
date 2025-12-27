@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hdi-ai-3a81a3bb.zappy5.app/sitemap.xml
